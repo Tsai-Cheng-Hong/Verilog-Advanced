@@ -13,7 +13,7 @@ Incenter of a Triangle
 
 ![image](https://user-images.githubusercontent.com/64843338/161254429-56d56396-7d8a-4f09-b669-fe073c14375e.png)
 
-Kmeans_Clustering_Algorithm
+Kmeans Clustering Algorithm
 
 ![image](https://user-images.githubusercontent.com/64843338/161254551-ceae754e-9f58-465f-a1c4-e8b86a873da0.png)
 
