@@ -19,7 +19,7 @@ Kmeans Clustering Algorithm
 
 ------------------------------------------------------------------------
 # 延伸閱讀 Read-Around
-# 專案名稱 Project Completion
+# Verilog-base
 20180327 - Half Adder & Full Sub、Multiplier
 
 20180403 - Assign Adder & Assign Multiplier & 2-1 Multiplexer & 1-4 Multiplexer & Full Adder
