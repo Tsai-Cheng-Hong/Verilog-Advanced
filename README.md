@@ -19,6 +19,31 @@ Kmeans Clustering Algorithm
 
 ------------------------------------------------------------------------
 # 延伸閱讀 Read-Around
+# 專案名稱 Project Completion
+20180327 - Half Adder & Full Sub、Multiplier
+
+20180403 - Assign Adder & Assign Multiplier & 2-1 Multiplexer & 1-4 Multiplexer & Full Adder
+
+20180410 - if-else & case
+
+20180417 - 2's complement & 1-4 、 4-1 Mulplexer
+
+20180508 - up counter & down counter & trigger counter
+
+20180515 - SISO & SIPO
+
+20180522 - Divider-10 & Ring counter
+
+20180529 - Divider & PWM-40% Duty Cycle & PWM-70% Duty Cycle &
+
+20180605 - Detector
+
+20180612 - Detector & x^7+x^3+x+1 & Marquee
+
+https://github.com/Tsai-Cheng-Hong/Verilog-Basic
+
+------------------------------------------------------------------------
+
 # Verilog-Normal:
 
 OR & NOR gate-Layout & schematic 
